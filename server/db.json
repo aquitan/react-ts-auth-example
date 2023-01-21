@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "aquitanfw@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "aquitan@mail.ru",
+      "password": "19421616Qq",
+      "id": 2
+    }
+  ]
+}
